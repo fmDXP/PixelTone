@@ -25,8 +25,8 @@ PixelTone is a lightweight C++ library for image manipulation and audio playback
 ```cpp
 #include "PixelTone.h"
 #include "miniaudio.h"
-#include "sdb_image.h"
-#include "sdb_image_write.h"
+#include "stb_image.h"
+#include "stb_image_write.h"
 
 int main() {
     pxtone::init();
