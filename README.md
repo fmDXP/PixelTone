@@ -41,6 +41,12 @@ int main() {
 }
 ```
 
+## Development
+
+> ℹ️ Note: This project was developed using Visual Studio Insiders (early Visual Studio 2026). Only the source code is included. That means no `.sln` or project files, so it’s easier to access and compile.  
+> It’s recommended to use Visual Studio (any recent version) to build and work with this project.
+
+
 ## License
 
 This project is using an MIT License making this free to use and modify.
